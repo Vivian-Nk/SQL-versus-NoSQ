@@ -1,4 +1,4 @@
-# SQL-versus-NoSQ
+# SQL-versus-NoSQL
 1_NoSQL is known to be a non relational database management system (DBMS)
  which does not need a fixed schema,no links and has  an easy scaling method. 
 While SQL database is strictly or mainly a relational database.
@@ -16,4 +16,4 @@ While SQL database is strictly or mainly a relational database.
  While examples of SQL databases are Oracle, postgres, Microsoft SQL, etc.
 
 6_ NoSQL is mostly used when the data accuracy is not necessary rather a fast growing
- data is needed. While SQL is mostly used when the validity of data is a necessity.
+ data is needed.While SQL is mostly used when the validity of data is a necessity.
