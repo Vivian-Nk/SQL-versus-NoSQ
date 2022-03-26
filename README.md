@@ -1,4 +1,4 @@
-# SQL-versus-NoSQ
+#Diferences between NoSQL and SQL.
 1_NoSQL is known to be a non relational database management system (DBMS)
  which does not need a fixed schema,no links and has  an easy scaling method. 
 While SQL database is strictly or mainly a relational database.
